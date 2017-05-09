@@ -1,0 +1,23 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "a koa project",
+  "main": "koa.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "node koa.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pcdqc/Blog.git"
+  },
+  "keywords": [
+    "koa"
+  ],
+  "author": "chuange",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pcdqc/Blog/issues"
+  },
+  "homepage": "https://github.com/pcdqc/Blog#readme"
+}
